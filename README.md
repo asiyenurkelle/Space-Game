@@ -1,2 +1,2 @@
 # Uzay-Oyunu
-Bu proje Processing ve Eclipse ortamları kullanılarak geliştirilmiş bir java projesidir.Projede bir oyun geliştirilmiştir.Uzay gemisinin hedefleri vurması amacıyla hazırlanmıştır.
+2019-2020 eğitim senesi,CELAL BAYAR ÜNİVERSİTESİ HASAN FERDİ TURGUTLU TEKNOLOJİ FAKÜLTESİ-Yazılım Mühendisliği bölümü Java Programlama dersi için hazırlanan projedir.Bu proje Processing ve Eclipse ortamları kullanılarak geliştirilmiştir.Projede bir oyun hazırlanmıştır.Uzay gemisinin hedefleri vurması amaçlanmaktadır.
